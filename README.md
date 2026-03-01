@@ -1,5 +1,12 @@
 # Mobile Device Hardware Support Case Study: Power Issues
 
+![Device](https://img.shields.io/badge/Device-iPhone%20XR-informational)
+![Issue](https://img.shields.io/badge/Issue-Power%20Drain%20%26%20Charging-orange)
+![Repair](https://img.shields.io/badge/Repair-Battery%20%2B%20Lightning%20Port-blue)
+![OS](https://img.shields.io/badge/OS-iOS-success)
+![Status](https://img.shields.io/badge/Status-Resolved-brightgreen)
+![Skill](https://img.shields.io/badge/Skill-Hardware%20Troubleshooting-purple)
+
 ---
 
 ##  Overview (TL;DR)
